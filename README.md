@@ -6,3 +6,4 @@ Vector graphics of designs seen in the space of gong culture (Không gian văn h
 | Name         | Filename          | Description                              |
 |--------------|-------------------|------------------------------------------|
 | Sun Mandala  | `sun_mandala.svg` | Seen in Gia Lai Museum Pleiku 27/01/2022 |
+| Star Mandala  | `star_mandala.svg` | Seen in Gia Lai Museum Pleiku 27/01/2022 |
